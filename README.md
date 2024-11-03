@@ -1,6 +1,6 @@
 # Responsive Design Bootcamp
 
-**Här får ni en rad övningar där ni får träna era kunskaper i att styla responsivt.**
+**Här har ni en rad övningar där ni får träna era kunskaper i att styla responsivt.**
 
 ## 00 - Responsive Wrapper
 
