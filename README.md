@@ -6,19 +6,19 @@
 
 Skapa upp ett nytt projekt innehållandes en index.html och en style.css. I din html-fil lägger du en "wrapper" som wrappar allt innehåll på din sida. Använd CSS för att se till att din wrapper alltid är centrerad på skärmen, och att den som mest får vara 1000px bred. Ge den en kantlinje för att kunna särskilja den från din body, och kontrollera att den fungerar genom att krympa ditt fönster i webbläsaren.
 
-## 02 - Flex Wrap
+## 01 - Flex Wrap
 
 Inuti din wrapper skapar du ett section-element som i sin tur innehåller 10 st "kort". Ditt section-element skall vara en flexbox, och dina kort skall alla ha ett gap på 1rem, en backgrundsfärg som skiljer sig från din section, och vara som minst 200px breda.
 
 Få nu din flexbox-container att wrappa innehållet om skärmen blir för liten
 
-## 03 - Grid Wrap
+## 02 - Grid Wrap
 
 Inuti din wrapper skapar du ytterligare ett section-element innehållandes 10 st "kort". Ditt section-element skall vara en Grid, och dina kort skall alla ha en gap på 1rem, en bakgrundsfärg som skiljer sig från din section, och de får som minst vara 200px breda.
 
 Få nu din grid-container att wrappa innehållet när skärmen blir för liten. Tänk på att dina kort aldrig får bli mindre än 200 px breda.
 
-## 04 - Media queries
+## 03 - Media queries
 
 Inuti din wrapper skapar du ytterligare ett section-element innehållandes 10 st "kort". Ditt section-element skall vara en Grid, och dina kort skall alla ha en gap på 1rem, en bakgrundsfärg som skiljer sig från din section, och de får som minst vara 200px breda.
 
