@@ -24,10 +24,10 @@ Inuti din wrapper skapar du ytterligare ett section-element innehållandes 10 st
 
 Denna gång använder du förslagsvis återigen grid för att styra layouten, men istället för "hack-regeln" till grid template-columns, så justerar du med media queries exakt hur många kolumner din grid för bestå av. På fullskärm skall det vara 4, och sedan lägger du på media queries hela vägen ner till 1 kolumn.
 
-## 05 - Media queries Bootcamp - Veckans Code Review Uppgift
+## 04 - Media queries Bootcamp - Veckans Code Review Uppgift
 
 Media Queries Bootcamp [hittar du här]().
 
-## 06 - Justera Grid Layout
+## 05 - Justera Grid Layout
 
 Återgå till [Grid Bootcamp](https://github.com/fu-html-css-fe24/exercise-css-grid-bootcamp) från förra veckan. Applicera media queries på dina lösningar så att de även ser bra ut när skärmen krymper ner till mobilstorlek (ca 390px - 450px).
