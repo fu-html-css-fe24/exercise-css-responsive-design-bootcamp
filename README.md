@@ -26,7 +26,7 @@ Denna gång använder du förslagsvis återigen grid för att styra layouten, me
 
 ## 04 - Media queries Bootcamp - Veckans Code Review Uppgift
 
-Media Queries Bootcamp [hittar du här]().
+Media Queries Bootcamp [hittar du här](https://github.com/fu-html-css-fe24/exercise-css-media-queries-bootcamp).
 
 ## 05 - Justera Grid Layout
 
